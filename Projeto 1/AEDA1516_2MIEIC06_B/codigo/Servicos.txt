@@ -1,0 +1,3 @@
+limpeza,2
+pintura,4
+manutencao,3

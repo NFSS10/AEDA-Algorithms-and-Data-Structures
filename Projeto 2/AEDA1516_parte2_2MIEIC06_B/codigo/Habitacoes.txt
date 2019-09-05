@@ -1,0 +1,11 @@
+cond1 / apartamento 23 33.580002 asd 412343 T2 3 
+rua teste dois
+serv: limpeza 
+vivenda 3432 168.000000 alfredo 135413 312 1 
+rua teste
+serv: 
+xxxxx
+cond2 / apartamento 234 1362.059937 il 123524 T0 6 
+rua alberto
+serv: 
+xxxxx

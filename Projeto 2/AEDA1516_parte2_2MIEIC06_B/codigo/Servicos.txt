@@ -1,0 +1,2 @@
+cond1 / canalizacao 3 limpeza 4 xxxxx
+cond2 / limpeza 4 xxxxx

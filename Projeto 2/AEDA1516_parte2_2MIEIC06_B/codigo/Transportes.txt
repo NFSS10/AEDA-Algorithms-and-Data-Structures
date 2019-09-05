@@ -1,0 +1,2 @@
+cond1 / metro Penafiel Trindade 10 1 comboio Caide Porto 400 1 xxxxx
+cond2 / autocarro Amarante Porto 200 1 xxxxx
